@@ -10,6 +10,7 @@
 <div align="center">
 
 [![Build Status](https://travis-ci.com/natelistrom/learn-travis.svg?branch=master)](https://travis-ci.com/natelistrom/learn-travis)
+[![Build Status](https://nate-test-1.visualstudio.com/Learn%20Travis/_apis/build/status/Learn%20Travis-CI)](https://nate-test-1.visualstudio.com/Learn%20Travis/_build/latest?definitionId=4)
 
 </div>
 
