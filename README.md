@@ -1,7 +1,3 @@
-Add whitespace.
-
-More garbage edit
-
 # Learn Travis
 
 <div align="center">
