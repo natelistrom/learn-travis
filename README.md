@@ -1,6 +1,6 @@
 # Learn Travis
 
-Gobbledegook
+Gobbledegooks
 
 <div align="center">
     <a href="https://travis-ci.com/">
