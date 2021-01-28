@@ -1,7 +1,3 @@
-More changes
-
-
-
 # Learn Travis
 
 <div align="center">
@@ -101,7 +97,7 @@ for *new developers*.
 **Travis** *by contrast* has a much ***shallower learning curve***!
 
 <a name="how"></a>
-## How?
+## How does it work?
 
 This tutorial will take you **20 minutes** and will ***save you hours***
 of frustration! #**NoBrainer**
