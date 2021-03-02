@@ -1,8 +1,4 @@
-Add whitespace.
-
-More garbage edit
-
-# Learn Travis
+# Learn Travis Foo
 
 <div align="center">
     <a href="https://travis-ci.com/">
@@ -101,7 +97,7 @@ for *new developers*.
 **Travis** *by contrast* has a much ***shallower learning curve***!
 
 <a name="how"></a>
-## How?
+## How does it work?
 
 This tutorial will take you **20 minutes** and will ***save you hours***
 of frustration! #**NoBrainer**
